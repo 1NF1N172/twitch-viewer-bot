@@ -1,5 +1,5 @@
 ![219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3 (1)](https://user-images.githubusercontent.com/92625816/223582987-a08243f3-ea2e-401c-adc0-8c58731f1d61.jpg)
-‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‏‎‏‎[WEBSITE](https://kichi779.com/) ‏‎‏‎‏‎[DISCORD](https://discord.gg/3Wp3amnNr3)
+‎‎‎‎‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ### No need for a proxy. ⚠️
 ### Please leave a star for the project. This project is free and open source. ⭐ You can leave a star from the top right. ⭐..
@@ -25,9 +25,9 @@ https://user-images.githubusercontent.com/92625816/223770986-79017b4f-dc14-44b9-
   https://sites.google.com/chromium.org/driver/?pli=1
   
 ```sh
-git clone https://github.com/Kichi779/Twitch-Viewer-Bot kichiviewerbot
+git clone https://github.com/1NF1N172/Twitch-Viewer-Bot 1nfviewerbot
 
-cd kichiviewerbot
+cd 1nfviewerbot
 
 pip install -r requirements.txt (Or you can click on install.bat file)
 ```
@@ -54,13 +54,11 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - It automatically lowers the broadcast quality and prevents the audience drop. / 100 Star ⭐⭐⭐ ✔️ 19.08.2023
 
 # Support Me 🙋‍♂️
-🚀 If you want to support me and help take this project even further, you can follow my GitHub account by clicking the link below! 🔗
+🚀 If you want to support me and help take this project even further, you can follow my GitHub account and give a star to the project! 🔗
 
 I share these projects completely for free 🎁, and it only takes 10 seconds to follow! ⏳
 
 Even if you don’t follow, just visiting the link and skipping the ads helps me out! 🙌
-
-👉 [[SUPPORT ME]](https://lnk.news/eP)
 
 Thanks for your support! ❤️🔥
 
@@ -73,7 +71,5 @@ This software operates using Selenium, an automation framework, and does not col
 
 Furthermore, this tool has been developed as an educational resource to help users understand data mining algorithms, brute-force attack concepts, and automated testing techniques in an ethical and controlled environment. Any misuse, unauthorized access, or illegal application of this tool is strictly prohibited.
 
-If you have any legal concerns, please contact me via email.
-
-kichi779@protonmail.com
+If you have any legal concerns, please contact me.
 
