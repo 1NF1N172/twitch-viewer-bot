@@ -22,7 +22,7 @@ This software allows you to send viewers to your Twitch live stream without the 
   https://sites.google.com/chromium.org/driver/?pli=1
   
 ```sh
-git clone https://github.com/1NF1N172/Twitch-Viewer-Bot 1nfviewerbot
+git clone https://github.com/1NF1N172/Viewer-Bot 1nfviewerbot
 
 cd 1nfviewerbot
 
